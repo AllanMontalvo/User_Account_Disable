@@ -34,9 +34,9 @@ Procedure on how to disable account and reset account password in Active Directo
 - Right-click your domain name (mydomain.net) and select "Find".
 - Type user's name.
 - Select a user and go to "Account" tab.
-- In "Account Options", uncheck "Account is disable" box and click apply.  
+- In "Account Options", uncheck "Account is disable" box and click apply.
 
-![Change Password and Unlock account](https://github.com/user-attachments/assets/ba7064b4-9e04-4415-9c4c-23980a8a68e8)
+![Enable Account](https://github.com/user-attachments/assets/1d7d3ee3-d7e9-4e48-9843-1c8e67bd4c20)
 
 - Login to Client-1 as user.
 
