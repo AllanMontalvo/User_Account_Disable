@@ -1,5 +1,5 @@
 # User_Account_Disable
-Procedure on how to disable account and reset account password in Active Directory on Azure.
+Procedure on how to disable and enable account in Active Directory on Azure.
 
 
 <h2>Environments and Technologies Used</h2>
